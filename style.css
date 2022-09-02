@@ -1,0 +1,38 @@
+header {
+    background-color: white;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    gap: 30;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+    background-color: bisque;
+}
+
+h2 {
+    text-align: center;
+}
+
+article {
+    background-color: beige;
+}
+
+.counter-strike {
+    background-color: darkblue;
+    color: white;
+}
+
+.Witcher3{
+    background-color: darkred;
+    color: black;
+}
+
+footer {
+    background-color: white;
+}
